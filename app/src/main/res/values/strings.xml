@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestMyApp</string>
+    <string name="BoxerThrowJab" >Boxer Throw Jab</string>
+    <string name="BoxerHook">Boxer Hook</string>
+    <string name="KJ">Kick boxer Jab</string>
+    <string name="KUc">Kick boxer UpperCut</string>
+</resources>
