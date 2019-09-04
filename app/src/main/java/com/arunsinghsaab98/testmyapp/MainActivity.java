@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Toast.makeText(getApplicationContext(),"Arun Singh Saab",Toast.LENGTH_LONG).show();
-
+        Toast.makeText(getApplicationContext(),"Arun Singh Saab",Toast.LENGTH_LONG).show();
 
         btnKUC.setOnClickListener(new View.OnClickListener() {
             @Override
